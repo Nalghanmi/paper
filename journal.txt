@@ -3,3 +3,6 @@ Date:19.09.2017
 Introduction:
 
 Conclusion
+
+
+we add new refernce to this paper related to scientific approaches used in machine learning
