@@ -5,4 +5,6 @@ Introduction:
 Conclusion
 
 
-we add new refernce to this paper related to scientific approaches used in machine learning
+we add new refernce to this paper related to scientific approaches used in machine learning.
+
+Add new references ( N alghanmi et.al)
