@@ -3,14 +3,10 @@ Date:19.09.2017
 Title LLLLLLLLLLLLLLLLLLLLLL
 Introduction:
 Background
-
 Research study 
 hello hello hello 
-
 Testing
-
 Result 
-
 we find that simulation is a good job and can be use as a measurment.
 Conclusion
 As a conclusion we found that this is an effecient way to describe Big DAta
