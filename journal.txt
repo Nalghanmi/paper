@@ -10,6 +10,8 @@ hello hello hello
 Testing
 Conclusion
 As a conclusion we found that this is an effecient way to describe Big DAta
+Figures
+
 
 we add new refernce to this paper related to scientific approaches used in machine learning.
 
